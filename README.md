@@ -38,6 +38,6 @@ For this project, we are asked to create a single page application with Vue.Js
 For this project, I decided to create a website selling my photographs.
 They can be seen here 👉🏻 nicolasgodineau.com
 
-![Page index](./screenshot/index.jpeg)
+![Page index](./screenshot/Index.jpeg)
 ![Page gallery](./screenshot/Gallery.jpeg)
 ![Page add](./screenshot/Add.jpeg)
